@@ -38,6 +38,13 @@ Diligence
 
 * Adobe Photoshop, Figma
 
+## Code examples:
+
+ ```function multiply(a, b)
+ {
+  return a * b
+  }
+ ```
 
 
 ## Education:
